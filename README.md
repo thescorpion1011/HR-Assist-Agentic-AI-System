@@ -15,7 +15,7 @@ Add the following configuration to your claude_desktop_config.json file:
     {
     "mcpServers": {
         "hr-assist": {
-        "command": "C:\\Users\\dhaval\\.local\\bin\\uv",
+        "command": "C:\\Users\\ashish\\.local\\bin\\uv",
         "args": [
             "--directory",
             "C::\\code\\atliq-hr-assist",
